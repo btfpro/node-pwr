@@ -8,5 +8,6 @@
   },
   "author": "Ravi Reddy",
   "dependencies": {
+    "powershell": "https://github.com/BenjaminMichael/powershell.git#PSCore-Support"
   }
 }
