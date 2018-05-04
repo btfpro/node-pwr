@@ -1,0 +1,13 @@
+{
+  "name": "ravi-file-uploader",
+  "version": "0.0.0",
+  "description": "SQR uploader",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Ravi Reddy",
+  "dependencies": {
+    "powershell": "^2.3.0"
+  }
+}
